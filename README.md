@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/bastra29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bastra29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bagus adi saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagus adi saputra" height="30" width="40" /></a>
-<a href="https://fb.com/bagusadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagusadi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Bagusadi/100007834759170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bagusadi" height="30" width="40" /></a>
 <a href="https://instagram.com/bastra29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bastra29" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bagus adi saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bagus adi saputra" height="30" width="40" /></a>
 </p>
